@@ -1,0 +1,7 @@
+﻿  CharTest.cpp
+C:\Visual Studio 2022\CRHSCS\CharTest\CharTest.cpp(126,50): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 296 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  CharTest.vcxproj -> C:\Visual Studio 2022\CRHSCS\x64\Release\CharTest.exe
